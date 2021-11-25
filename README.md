@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 💬  If you have a complex problem or need mentorship, book a session with me on: [![Contact me on Codementor](https://www.codementor.io/m-badges/eko/book-session.svg)](https://www.codementor.io/@eko?refer=badge)
 - :heart:  If you liked my work, consider buying me [Kofi](https://ko-fi.com/ekooo) 
-- 🌱  One of the top Angular answerers all time: [eko](https://stackoverflow.com/users/5706293/eko)
+- 🌱  One of the top Angular answerers all time: [eko](https://stackoverflow.com/users/5706293/eko?tab=profile)
 <!--
 **echonax/echonax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
